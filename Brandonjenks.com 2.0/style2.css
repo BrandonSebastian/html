@@ -1,0 +1,13 @@
+
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+	background-color: beige;
+}
+
+h1 {
+	color:purple; 
+	text-align: center;
+}

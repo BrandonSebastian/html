@@ -11,24 +11,19 @@ h1 {
 	font-size: 50px;
 	font-family: palatino, 'Palatino linotype', serif;
 }
-h2{
 
-}
 p {
 	font-size: 16px;
 	color: blue;
-	
 }
 
 footer {
-	color: purple;
-	
+	color: purple;	
 }
 
 .quick {
-	color: blue;
+	color: Blue;
 	text-align: left;
 	margin: 30px;
-	
-	
+	font-size: 10px;
 }
